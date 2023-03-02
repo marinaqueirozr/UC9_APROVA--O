@@ -1,0 +1,15 @@
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\UC9_APROVAÇÃO.exe
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\UC9_APROVAÇÃO.deps.json
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\UC9_APROVAÇÃO.runtimeconfig.json
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\UC9_APROVAÇÃO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\ref\UC9_APROVAÇÃO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\bin\Debug\net6.0\UC9_APROVAÇÃO.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.csproj.AssemblyReference.cache
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.AssemblyInfoInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.AssemblyInfo.cs
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.csproj.CoreCompileInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\ref\UC9_APROVAÇÃO.dll
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_APROVAÇÃO\UC9_APROVAÇÃO\obj\Debug\net6.0\UC9_APROVAÇÃO.genruntimeconfig.cache
